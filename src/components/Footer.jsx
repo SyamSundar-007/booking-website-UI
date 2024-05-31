@@ -81,7 +81,7 @@ export function Footer() {
                 </span>
             </div>
 
-            <Contributor/>
+            {/* <Contributor/> */}
         </div>
     )
 }
